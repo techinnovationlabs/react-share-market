@@ -1,0 +1,48 @@
+.container {
+    background-color: #FBFBFB;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    border-style: outset;
+    margin-top: 1%;
+}
+
+.innercontainer {
+    margin: 1% 1%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+}
+
+.innercontainer1 {
+    flex: 1
+}
+
+.innercontainer2 {
+    flex: 1.5;
+}
+
+.innercontainer3 {
+    flex: 1.65;
+}
+
+.logo {
+    margin: 10% 0%;
+}
+
+.price {
+    font-weight: bold;
+    color: turquoise;
+}
+
+.boldertext {
+    font-weight: bold;
+}
+
+.button {
+    width: 100%;
+}
+
+.alight-right {
+    text-align: right;
+}
